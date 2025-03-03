@@ -33,7 +33,7 @@ export default function ApiIntegration() {
                                 </div>
                                 <div className="flex flex-col gap-7">
                                     <div>
-                                        <p className="m-0 font-['Roboto','Helvetica','Arial',sans-serif] tracking-[0.00938em] leading-[0.5] font-semibold text-gray-100 text-base">Base KI:</p>
+                                        <p className="font-['Roboto','Helvetica','Arial',sans-serif] tracking-[0.00938em] leading-[0.5] font-semibold text-gray-100 text-base">Base KI:</p>
                                         <span className="m-0 text-[18px] font-['Roboto','Helvetica','Arial',sans-serif] tracking-[0.00938em] leading-[0.5] text-yellow-500 font-bold">{item.ki}</span>
                                     </div>
                                     <div>
